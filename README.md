@@ -22,10 +22,12 @@ I'm a web developer with solid knowledge in Java and I never found it difficult 
 
 ### Social
 
-![](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/ademarfsj/)
-![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ademarfsj/)
-
-
+<a href="https://twitter.com/ademarfsj">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/ademarfsj/">
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/ademarfsj/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ademarfsj/">
+</a>
 <!--
 **ademarfsj/ademarfsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
